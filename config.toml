@@ -1,0 +1,11 @@
+#Hugo configuration
+title = "dcxvwrfe"
+baseURL = "https:\/\/qweasd.qwe.cxv"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+
+[params]
+loginId = "1758166"
+subfolder = ""
